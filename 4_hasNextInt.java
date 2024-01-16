@@ -5,6 +5,8 @@ class Has_Next_Int {
         System.out.print("Enter any thing and we will chk it whether it is int or not ::>> ");
 
         Scanner sc = new Scanner(System.in);
+        // forked it
+        
 
     }
 }
